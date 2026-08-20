@@ -679,6 +679,14 @@ ul {
   transition: transform 350ms ease;
 }
 
+.venue-image-first-floor img {
+  object-position: center 28%;
+}
+
+.venue-image-reception img {
+  object-position: center 42%;
+}
+
 .venue-content {
   min-width: 0;
   padding: clamp(1.35rem, 2.5vw, 2rem);
